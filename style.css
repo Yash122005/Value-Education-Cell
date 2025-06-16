@@ -646,7 +646,8 @@ body.dark-mode #nav a,
 body.dark-mode h1,
 body.dark-mode h3,
 body.dark-mode p,
-body.dark-mode i {
+body.dark-mode i,
+body.dark-mode .section-title{
   color: white;
 }
 
