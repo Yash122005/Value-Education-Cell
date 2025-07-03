@@ -7,7 +7,7 @@ Shery.mouseFollower({
 Shery.makeMagnet(".magnet");
 
 Shery.hoverWithMediaCircle(".hvr" /* Element to target.*/, {
-  images: ["img6.png", "img5.jpg", "img4.png"],
+  images: ["images/img6.png", "images/img5.jpg", "images/img4.png"],
 });
 
 Shery.imageEffect(".images", {
