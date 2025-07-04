@@ -1,5 +1,5 @@
 # 🌱 Value Education Cell – BIT Mesra, Ranchi <br>
-<a href = "https://github.com/Yash122005/Value-Education-Cell"> VEC_BITM.IN </a>
+<a href = "https://yash122005.github.io/Value-Education-Cell/"> VEC_BITM.IN </a>
 
 Welcome to the official website repository of the **Value Education Cell** at **Birla Institute of Technology, Mesra**. This website represents the mission, events, and initiatives of the Cell, designed and developed to promote human values, ethical leadership, and social responsibility among students and faculty.
 
