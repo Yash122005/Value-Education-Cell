@@ -18,7 +18,7 @@ Welcome to the official website repository of the **Value Education Cell** at **
 ## 🛠 Tech Stack
 
 - **Frontend**: HTML5, CSS3, JavaScript, Tailwind CSS
-- **Frameworks/Libraries**: [React.js](https://reactjs.org/) *(if used)* or Vanilla JS
+- **Frameworks/Libraries**: [Shery.js](https://reactjs.org/) ,lenis ,gsap
 - **Animations**: Framer Motion, AOS (Animate On Scroll)
 - **Version Control**: Git & GitHub
 
